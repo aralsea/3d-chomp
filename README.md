@@ -1,3 +1,6 @@
+## 3d-chomp
+A (naive) bruteforce solver for (3d) Chomp game, written by ChatGPT.
+
 ### Requirements
 - uv (see https://docs.astral.sh/uv/getting-started/installation/)
 
